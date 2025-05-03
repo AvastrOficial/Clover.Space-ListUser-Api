@@ -6,6 +6,9 @@ Este proyecto tiene como objetivo obtener información sobre los usuarios de una
 
 El proyecto está compuesto por un conjunto de funciones JavaScript que interactúan con la API de Clover Space para obtener detalles de usuarios y mostrarlos en una página web. La aplicación incluye funcionalidades como la obtención de la mejor imagen de avatar del usuario, la visualización de información detallada sobre cada usuario (nombre, género, estado, etc.), y la opción de ver el perfil completo de cada usuario en la plataforma.
 
+![image](https://github.com/user-attachments/assets/2d84591b-87b8-421a-b915-c1a1cb65a5df)
+
+
 ### Funcionalidades:
 - **Obtener el avatar del usuario:** Se obtiene la imagen de perfil más adecuada del usuario, si está disponible.
 - **Formato de fecha:** Se formatea la fecha de la última vez que el usuario abrió la aplicación.
